@@ -40,9 +40,10 @@ document.addEventListener("DOMContentLoaded", () => {
     setTimeout(() => {
       intro.classList.add("hidden");
       app.classList.remove("hidden");
-    }, 800);
+    }, 1200);
   });
 
 });
+
 
 
